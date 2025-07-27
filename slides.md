@@ -7,7 +7,7 @@ lineNumbers: false
 drawings:
   persist: false
 transition: slide-left
-title: JavaScript Code Golf for Everyone
+title: JavaScript Code Golf
 colorSchema: dark
 fonts:
   sans: 'Inter'
